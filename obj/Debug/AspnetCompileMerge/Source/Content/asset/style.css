@@ -1,0 +1,55 @@
+.nav-content {
+      width: 70vw;
+      margin: 0 auto;
+    }
+.div {
+    width: 70vw;
+    margin: 35px auto;
+    border-radius: 10px;
+    background-color: rgb(20, 20, 20,0.85);
+}
+body {
+    background-image: url('sw.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden; /* Prevent scrolling */
+}
+
+.navbar {
+    background-color: rgb(20, 20, 20) !important;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #fff !important;
+}
+
+.justify-paragraph {
+    text-align: justify;
+}
+
+.centered-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.centered-div img {
+    max-width: 85%;
+    max-height: 85%;
+}
+
+
+.upper-lower-div {
+width: 70vw;
+margin: 35px auto;
+border-radius: 10px;
+}
+    
+
+    
+
+    
